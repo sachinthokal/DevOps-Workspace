@@ -1,4 +1,4 @@
-# kubernetes - Self Practices Workspace
+# DevOps - Self Practices Workspace
 
 This repository contains my hands-on exercises, cluster setups, and architecture notes while learning and practicing Kubernetes.
 
